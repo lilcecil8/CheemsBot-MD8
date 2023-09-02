@@ -21,18 +21,18 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['254790797428'] //ur owner number
-global.ownernomer = "254790797428" //ur owner number2
+global.owner = ['254701866365'] //ur owner number
+global.ownernomer = "254701866365" //ur owner number2
 global.ownername = "𝔏𝔦𝔩 ℭ𝔢𝔠𝔦𝔩 𓃵" //ur owner name
 global.ytname = "𝔏𝔦𝔩 ℭ𝔢𝔠𝔦𝔩 𓃵" //ur yt chanel name
-global.socialm = "GitHub: lilcecil" //ur github or insta name
+global.socialm = "GitHub: lilcecil8" //ur github or insta name
 global.location = "Kenya, Nakuru, Lanet" //ur location
 
 //new
 global.botname = "𝔏𝔦𝔩 ℭ𝔢𝔠𝔦𝔩 𓃵"
-global.ownernumber = '254790797428'
+global.ownernumber = '254701866365'
 global.ownername = '𝔏𝔦𝔩 ℭ𝔢𝔠𝔦𝔩 𓃵'
-global.ownerNumber = ["254790797428@s.whatsapp.net"]
+global.ownerNumber = ["254701866365@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
 global.wagc = "https://chat.whatsapp.com/HLj7vpZztz3L2E5VOHYYmS"
@@ -41,7 +41,7 @@ global.wm = "𝔏𝔦𝔩 ℭ𝔢𝔠𝔦𝔩 𓃵"
 global.botscript = 'https://github.com/lilcecil8/CheemsBot-MD6' //script link
 global.packname = "Sticker By"
 global.author = "🦄드림 가이 Xeon\n\n"
-global.creator = "254790797428@s.whatsapp.net"
+global.creator = "254701866365@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
